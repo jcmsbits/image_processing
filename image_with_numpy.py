@@ -1,4 +1,3 @@
-from skimage import data
 import matplotlib.pyplot as plt
 from data_rgb_gray import show_image
 import numpy as np
